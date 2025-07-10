@@ -1,4 +1,2 @@
-
 console.log("demo1.js loaded");
-console.log("demo file loaded");
-
+console.log("demo file 2 loaded");
